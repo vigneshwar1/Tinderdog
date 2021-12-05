@@ -46,6 +46,7 @@ body {
   background-color:#fff;
   position:relative;
   z-index:1;
+  text-align: center;
 }
 .feature-box {
   align-items: center;
@@ -70,13 +71,13 @@ h3 {
   font-family: "Montserrat";
   font-weight: bold;
 }
+
 p {
   color: #8f8f8f;
   text-align: center;
 }
 .icon {
-  position: relative;
-  left: 21%;
+  text-align: center;
   margin-bottom: 1rem;
   color: #ef8172;
 }
